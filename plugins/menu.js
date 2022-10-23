@@ -246,7 +246,7 @@ let fkon = { key:
     itemCount : 999999999999,
     status: 404,
     surface : 404,
-    message: `© HAORI IQ-MD\nSimple WhatsApp Bot`, 
+    message: `© Gilzz-MD\nSimple WhatsApp Bot`, 
     orderTitle: `▮Menu ▸`,
     thumbnail: await (await fetch('https://telegra.ph/file/2b669452f7517d2b5097a.jpg')).buffer(),
     }
@@ -405,8 +405,8 @@ let ftt = `📮 Catatan: Perlakukan Bot Secara Baik, Dev Akan Bertindak Tegas Ap
                             hydratedFooterText:'Ⓟ = for premium users.\nⓁ = fitur berlimit.',
                             hydratedButtons: [{
                                 quickReplyButton: {
-                                    displayText: 'Donasi🧾',
-                                    id: '/donasi'
+                                    displayText: 'All Menu',
+                                    id: '/.? all'
                                 }
                             }, {
                                 quickReplyButton: {
