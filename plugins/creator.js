@@ -4,7 +4,7 @@ let ftroli = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid":
                 let vcard = 'BEGIN:VCARD\n' // metadata of the contact card
                     + 'VERSION:3.0\n' 
                     + 'N:; Pilar;;;'
-                    + 'FN: PilarXcode\n' // full name
+                    + 'FN: GilzzXcode\n' // full name
                     + 'ORG:Pilar;\n' // the organization of the contact
                     + 'TEL;type=CELL;type=VOICE;waid=625730794089:+62-8857-3079-4089\n' // WhatsApp ID + phone number
                     + 'END:VCARD'
