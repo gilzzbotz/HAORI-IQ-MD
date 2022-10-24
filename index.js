@@ -13,7 +13,7 @@ CFonts.say('BOT BY\n Zivfurr', {
   colors: ['blueBright','yellowBright'],                                        font: 'block',
   align: 'center',
 })
-CFonts.say(`HAORI IQ-MD`, {                                            
+CFonts.say(`GILZZ-MD`, {                                            
 colors: ['yellow'],                                                           
 font: 'console',                                                              align: 'center',
 })
